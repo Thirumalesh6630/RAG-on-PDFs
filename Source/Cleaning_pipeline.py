@@ -71,5 +71,5 @@ class TextFilter:
 
 
 if __name__ == "__main__":
-    filter_instance = TextFilter('/Users/arshad_221b/Documents/Documents - Arshad’s MacBook Pro - 1/Projects/Lanchain Pinecone/meditations copy 2.text')
+    filter_instance = TextFilter("C:\Users\91799\Desktop\Thiru folder\project folder\meidtations.pdf")
     filter_instance.clean_text()
