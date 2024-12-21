@@ -1,6 +1,7 @@
 # Smart PDF Reader
 
-![smart pdf reader](/screenshots/IMG_4161.JPG)
+![smart pdf reader](/screenshots/![image](https://github.com/user-attachments/assets/b5b02c43-a9b7-41c0-93bd-7bee6d6922ca)
+)
 
 ## Overview
 
